@@ -11,7 +11,7 @@ import { NxWelcomeComponent } from './nx-welcome.component';
 })
 export class AppComponent implements OnInit {
   ngOnInit(): void {
-    console.log('Test ci in app1');
+    console.log('Test 3 ci in app1');
   }
   title = 'app1';
 }
